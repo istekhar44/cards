@@ -52,21 +52,28 @@
 
 }
 
-
-/* #leftBox{
-    /* height: 350px;
-    width: 350px;
-    margin: 4px;
-    padding: 4px;
-    border-bottom-right-radius: 24px;
-    border-bottom-left-radius: 24px;           
+#leftBox{
+    height: 25rem;
     display: flex; 
-    gap: 15px; */
+    gap: 15px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: black;
+}
+.rightBox{
 
-/* } */
-/* #leftbox p{
-    font-size: 40px;
-    font-weight: 800; */
+}
+#cangeBox{
+    
+    justify-content: end;
+    margin: 0.8em;
+    padding: 0.3em;
+    font-weight: 1000;
+    font-size: 1.9rem;
+
+
+
+}
 
 #changeBox{
     height: 40px;
